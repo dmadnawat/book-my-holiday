@@ -36,7 +36,7 @@
 					<muleVersion>4.4.0</muleVersion>
 					<username>harshit_197</username>
 					<password>Mulesoft@1234</password>
-					<applicationName>book_my_holiday</applicationName>
+					<applicationName>bookholiday</applicationName>
 					<environment>Sandbox</environment>
 					<businessGroup>XYZ</businessGroup>
 					<objectStoreV2>true</objectStoreV2>
